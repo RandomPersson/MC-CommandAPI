@@ -1,0 +1,15 @@
+name: CommandAPI
+version: 2.2
+description: API for creating commands efficiently
+api-version: 1.16
+load: STARTUP
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.RandomPersson.mc.CommandAPI.v2_0.CommandAPIPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
