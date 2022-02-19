@@ -112,7 +112,7 @@ implements PluginIdentifiableCommand {
 				flag_value_string = flag_split[1];
 			}
 			else {
-				flag_value_string = //default
+				flag_value_string = ""; //TODO default
 			}
 			Utils.debug("CMDAPI", "flag_name = " + flag_name);
 			Utils.debug("CMDAPI", "flag_value_string = " + flag_value_string);

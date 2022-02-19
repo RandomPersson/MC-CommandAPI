@@ -1,7 +1,7 @@
 name: CommandAPI
 version: 2.2
 description: API for creating commands efficiently
-api-version: 1.16
+api-version: 1.18
 load: STARTUP
 author: RandomPersson
 authors: []
