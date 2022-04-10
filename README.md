@@ -13,4 +13,4 @@ CommandAPI is a library for Minecraft plugin developers that simplifies and auto
 
 ### Planned features:
 • Hijacking native command parser for more optimization  
-• Dynamic permissions that are processed every execution  
+• 'Dynamic permissions' that can change every execution  
